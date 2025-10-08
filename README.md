@@ -3,7 +3,7 @@
 ```yaml
 library:
   name: "My Virtual Library"
-  theme: dark         # Options: dark, light
+  theme: light         # Options: dark, light
   maxBooks: 100
   features:
     login: true
